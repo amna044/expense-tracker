@@ -1,0 +1,9 @@
+.main-div{
+    align-content: center;
+     background-color: bisque;
+     width: 300px;
+
+}
+.inc-cont{
+    display: flex;
+}
